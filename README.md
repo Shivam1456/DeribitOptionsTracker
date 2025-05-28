@@ -24,7 +24,7 @@ This project connects to the Deribit API to collect real-time options data. It s
    ```bash
    git clone https://github.com/yourusername/deribit-api-integration.git
    cd deribit-api-integration
-````
+
 
 2. Create and activate a virtual environment:
 
@@ -62,5 +62,5 @@ http://localhost:5000
 * Charts are generated using Plotly
 * The dashboard shows the latest data and updates over time
 
-```
+
 
