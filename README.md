@@ -24,7 +24,7 @@ This project connects to the Deribit API to collect real-time options data. It s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deribit-api-integration.git
+   git clone https://github.com/Shivam1456/DeribitOptionsTracker.git
    cd deribit-api-integration
 
 
