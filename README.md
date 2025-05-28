@@ -1,8 +1,7 @@
-Sure! Here's a **simple and plain** `README.md` for your project:
+
 
 ---
 
-````markdown
 # Deribit Options Dashboard
 
 This project connects to the Deribit API to collect real-time options data. It stores the data in a SQLite database and displays it on a web dashboard using Flask.
@@ -65,5 +64,3 @@ http://localhost:5000
 
 ```
 
-Let me know if you want this even shorter or translated to Hindi or another language.
-```
