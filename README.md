@@ -1,8 +1,9 @@
-Sure! Here's a **simple and plain** `README.md` for your project:
+![image](https://github.com/user-attachments/assets/1cdcdcba-7198-4a01-8997-862167c6ec88)
+
+![image](https://github.com/user-attachments/assets/acc7574a-e3bb-485a-a160-da52dc494aca)
 
 ---
 
-````markdown
 # Deribit Options Dashboard
 
 This project connects to the Deribit API to collect real-time options data. It stores the data in a SQLite database and displays it on a web dashboard using Flask.
@@ -23,9 +24,9 @@ This project connects to the Deribit API to collect real-time options data. It s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deribit-api-integration.git
+   git clone https://github.com/Shivam1456/DeribitOptionsTracker.git
    cd deribit-api-integration
-````
+
 
 2. Create and activate a virtual environment:
 
@@ -63,7 +64,5 @@ http://localhost:5000
 * Charts are generated using Plotly
 * The dashboard shows the latest data and updates over time
 
-```
 
-Let me know if you want this even shorter or translated to Hindi or another language.
-```
+
